@@ -5,11 +5,11 @@ VisualStudioVersion = 16.6.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F7158E7F-D47B-424F-82D4-D3556C5691E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.bank", "src\DIO.bank\DIO.bank.csproj", "{6CDB4E0A-0167-4E78-993D-8A09D8C821B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Bank", "src\DIO.bank\DIO.Bank.csproj", "{6CDB4E0A-0167-4E78-993D-8A09D8C821B4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{897CAB10-F94F-45F3-AA92-937693578E69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.bank.test", "test\DIO.bank.test\DIO.bank.test.csproj", "{223935F0-C986-4B34-B74D-D14782711C35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Bank.test", "test\DIO.Bank.test\DIO.bank.test.csproj", "{223935F0-C986-4B34-B74D-D14782711C35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

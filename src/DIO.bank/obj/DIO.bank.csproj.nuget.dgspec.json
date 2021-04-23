@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\DIO.bank.csproj": {}
+    "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\DIO.bank.csproj": {
+    "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\DIO.bank.csproj",
-        "projectName": "DIO.bank",
-        "projectPath": "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\DIO.bank.csproj",
+        "projectUniqueName": "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\DIO.Bank.csproj",
+        "projectName": "DIO.Bank",
+        "projectPath": "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\alex_\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\src\\DIO.bank\\obj\\",
         "projectStyle": "PackageReference",

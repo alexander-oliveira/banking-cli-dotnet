@@ -1,0 +1,5 @@
+.vscode/
+src/DIO.Bank/bin/
+src/DIO.Bank/obj/
+test/DIO.bank.test/bin/
+test/DIO.bank.test/obj/

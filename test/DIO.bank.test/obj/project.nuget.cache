@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bSkROD0b7QAOfok5hzBDUsATgYvoGg45iszt/hNxkFk9wBs1HhgImmhNVfaav+/9uYcG6EucLaeq+Y79SmlwNQ==",
+  "dgSpecHash": "Rx816l2RBjesGETHgfCwGbs4vFUb9UtImtneh9z369CEzH+FJS1mgHgv1ywieXbxpOBQWf+zGa3MKqzsKXdu7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\test\\DIO.bank.test\\DIO.bank.test.csproj",
+  "projectFilePath": "C:\\Users\\alex_\\Desktop\\DIO\\dotnet\\projects\\DIO.bank\\test\\DIO.Bank.test\\DIO.bank.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex_\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\alex_\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
